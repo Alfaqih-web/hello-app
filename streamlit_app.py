@@ -13,7 +13,7 @@ with st.expander("Data"):
   df
   
   st.write("**X**")
-  X = df.drop("label", axis=0)
+  X = df.drop("label", axis=1)
   X
   
   st.write("**Y**")
