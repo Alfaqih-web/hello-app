@@ -7,9 +7,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score, classification_report
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
+
 
 st.write(" 🦅🦅🦅 Hello Wthis is the App testing for the Diosease prediction")
 
