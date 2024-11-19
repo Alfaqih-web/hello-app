@@ -1,11 +1,7 @@
 import streamlit as st
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score, classification_report
-import matplotlib.pyplot as plt
-from wordcloud import WordCloud
+
 
 
 st.write(" 🦅🦅🦅 Hello Wthis is the App testing for the Diosease prediction")
