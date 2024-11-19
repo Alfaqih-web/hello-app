@@ -5,5 +5,5 @@ import os
 
 st.write(" 🦅🦅🦅 Hello World!!!!!")
 
-df = pd.read.csv("https://raw.githubusercontent.com/Alfaqih-web/hello-app/refs/heads/main/Symptom2Disease.csv")
+df = pd.read.csv('https://raw.githubusercontent.com/Alfaqih-web/hello-app/refs/heads/main/Symptom2Disease.csv')
 df
